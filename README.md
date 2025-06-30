@@ -1,0 +1,1 @@
+# copy-all-buffers.nvim
